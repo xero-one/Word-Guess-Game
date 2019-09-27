@@ -1,0 +1,31 @@
+
+body {
+    background-image: src="assets/images/PotofGold.svg";
+}
+
+.h1 {
+    color: #E9BF19;
+    font-size: 45px;
+    font-family: 'Bree Serif', serif;
+    margin: auto;
+    text-align: center;
+}
+
+.instructions {
+    text-align: justify;
+    margin: auto;
+    padding: 10px 400px 0px 400px; 
+}
+
+.h2 {
+    color: #339900;
+    font-size: 25px;
+    font-family: 'Bree Serif', serif;
+    margin: auto;
+    text-align: center;
+}
+
+.gamesection {
+    margin: auto;
+    text-align: center;
+}

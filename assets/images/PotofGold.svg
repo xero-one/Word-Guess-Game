@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 7870 8350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-232,0)">
+        <g id="Pot-of-Gold" serif:id="Pot of Gold">
+            <g transform="matrix(1.24075,2.94828e-17,-2.94828e-17,-1,-3261.93,6512.27)">
+                <path d="M5987.2,169.902L9158.39,6512.27L2816.02,6512.27L5987.2,169.902Z" style="fill:white;"/>
+                <clipPath id="_clip1">
+                    <path d="M5987.2,169.902L9158.39,6512.27L2816.02,6512.27L5987.2,169.902Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(0.744029,3.13474e-17,3.13474e-17,1,1532.55,-8.97321e-13)">
+                        <path d="M5987.2,169.902L9158.39,6512.27L2816.02,6512.27L5987.2,169.902Z" style="fill:rgb(207,80,255);"/>
+                    </g>
+                    <g transform="matrix(0.501091,6.10987e-17,6.10987e-17,1,2987.07,1.81899e-12)">
+                        <path d="M5987.2,169.902L9158.39,6512.27L2816.02,6512.27L5987.2,169.902Z" style="fill:rgb(232,147,163);"/>
+                    </g>
+                    <g transform="matrix(0.337679,8.1111e-17,8.1111e-17,1,3965.45,2.72848e-12)">
+                        <path d="M5987.2,169.902L9158.39,6512.27L2816.02,6512.27L5987.2,169.902Z" style="fill:rgb(237,114,33);"/>
+                    </g>
+                    <g transform="matrix(0.16318,1.02481e-16,1.02481e-16,1,5010.21,1.81899e-12)">
+                        <path d="M5987.2,169.902L9158.39,6512.27L2816.02,6512.27L5987.2,169.902Z" style="fill:rgb(248,218,0);"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(0.55055,0,0,0.55055,1697.48,4171.73)">
+                <ellipse cx="4484.94" cy="5568.86" rx="2457.64" ry="1990.14" style="fill:rgb(82,79,79);stroke:black;stroke-width:60.55px;"/>
+                <g transform="matrix(1,0,0,1,111.258,316.961)">
+                    <path d="M5943.55,3545.9C6102.65,3459.51 6186.41,3361.52 6186.41,3261.76L2560.95,3261.76C2560.95,3361.52 2644.71,3459.51 2803.81,3545.9L5943.55,3545.9Z" style="fill:rgb(82,79,79);stroke:black;stroke-width:60.55px;"/>
+                </g>
+                <path d="M5629.89,3949.82C6858.22,4639.98 7253.64,6177.35 5629.89,7207.93C6569.45,6265.67 6872.67,5211.36 5629.89,3949.82Z" style="fill:rgb(227,226,227);"/>
+                <path d="M4166.67,3653.15L6077.94,3653.15C5660.71,3787.84 4946,3740.29 4166.67,3653.15Z" style="fill:rgb(227,226,227);"/>
+            </g>
+        </g>
+    </g>
+</svg>
